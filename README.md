@@ -9,8 +9,14 @@ Template for Next.js with Material UI, Next-PWA and Zustand.
 
 ## Running locally
 
+### Installing dependencies
+
 ```
-npm install or yarn install
+// with npm
+npm install
+
+// with yarn
+yarn install
 ```
 
 ### Running development environment
@@ -28,8 +34,6 @@ yarn dev
 ```
 // with npm
 npm run prod
-
-or
 
 // with yarn
 yarn prod
